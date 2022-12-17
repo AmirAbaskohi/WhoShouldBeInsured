@@ -1,0 +1,8 @@
+data/*.csv
+data/*.pdf
+data/*.png
+data/*.jpeg
+data/*.xlsx
+data/stop-words/*.txt
+.ipynb_checkpoints/
+
